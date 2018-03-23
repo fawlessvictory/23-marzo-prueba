@@ -1,0 +1,31 @@
+body{
+    font-family: 'Mina', sans-serif;
+    background: #ff7043;
+    background-image:url()
+    color: #222;
+}
+h1{
+    font-family: 'Stalinist One', cursive;
+   letter-spacing: 10px;
+    font-weight: 1000;
+    margin-top: 100px;
+    color: #f5f5f5;
+}
+h2{
+    font-family: 'Mina', sans-serif;
+    font-weight: 700;
+    
+}
+p.bajada{
+  font-weight: 500;
+}
+span{
+    font-weight: 700;
+} 
+
+div#mapid{
+    width: 100&;
+    height: 400px;
+    margin-bottom: 20px;
+    margin-top: 50PX;
+}
